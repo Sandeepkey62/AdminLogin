@@ -1,0 +1,20 @@
+		#pa1,#sp{
+			 color: red;
+		}
+		h4{
+			 padding: 20px 130px;
+		}
+		    h2{
+      padding: 20px;
+      align-items: center;
+      text-align: center;
+    }
+    #wrng{
+    	 color: red;
+    }
+    .btn-success{
+  margin-left: 20px;
+    }
+    .btn-info{
+    	 margin-left: 120px;
+    }
